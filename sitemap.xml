@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hamzamain-spec.github.io/klarsicht/</loc>
+    <loc>https://klarsicht.goereh.de/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hamzamain-spec.github.io/klarsicht/#/post/1773516818540</loc>
+    <loc>https://klarsicht.goereh.de/#/post/1773516818540</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hamzamain-spec.github.io/klarsicht/#/post/post-1775654310961</loc>
+    <loc>https://klarsicht.goereh.de/#/post/post-1775654310961</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
